@@ -1,0 +1,7 @@
+flasgger~=0.9.7b2
+Flask~=3.0.3
+Werkzeug~=3.0.3
+python-dotenv~=1.0.1
+marshmallow~=3.21.2
+watchdog~=4.0.1
+confluent-kafka
